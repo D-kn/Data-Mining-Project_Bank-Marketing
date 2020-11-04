@@ -7,8 +7,7 @@ It was an academic Data mining projetct about BANK MARKETING. In this work, we B
 ### Unsupervised Learning
 HAC, PCA, K-means
 ### Supervised Learning
-KNN, Linear SVM, Decision Tree, Random Forest, Naive Bayes, ANNs
-Cross-validation, Features enginering
+KNN, Linear SVM, Decision Tree, Random Forest, Naive Bayes, ANNs, Cross-validation, Features enginering
 ## 3. Method used to predict
 We comprare accuracies of all models used and found out that with ANNs, we had better results than others and our model was able to generalize under other datas. 
 ## 4 . Data source

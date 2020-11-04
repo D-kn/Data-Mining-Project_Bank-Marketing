@@ -11,4 +11,4 @@ KNN, Linear SVM, Decision Tree, Random Forest, Naive Bayes, ANNs, Cross-validati
 ## 3. Method used to predict
 We comprare accuracies of all models used and found out that with ANNs, we had better results than others and our model was able to generalize under other datas. 
 ## 4 . Data source
-<a href="https://archive.ics.uci.edu/ml/datasets/Bank+Marketing">link text</a>
+This dataset comes from <a href="https://archive.ics.uci.edu/ml/datasets/Bank+Marketing">link text</a>

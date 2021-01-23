@@ -6,7 +6,7 @@ It was a Data mining project about BANK MARKETING. In this work, we Built an aut
 <h2> 2. Tools and techniques used </h2>
 <h3> Supervised Learning </h3>
 KNN, SVM, Decision Tree, Random Forest, Naive Bayes, ANNs, Cross-validation, Features engineering
-<h2> 3. Method used to predict
+<h2> 3. Method used to predict</h2>
 We comprare accuracies of all models used and found out that with ANNs, we had better results than others and our model was able to generalize under other datas. 
 <h2> 4 . Data source </h3>
 This dataset comes from <a href="https://archive.ics.uci.edu/ml/datasets/Bank+Marketing">link text</a>
